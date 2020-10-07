@@ -1,3 +1,4 @@
+# App for Magic 8 ball
 # Import the modules
 import sys
 import random
